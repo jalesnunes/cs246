@@ -7,6 +7,9 @@ public class User {
     private String hash;
 
     public User() {
+        //password = "";
+        salt = null;
+        hash = null;
 
     }
 
