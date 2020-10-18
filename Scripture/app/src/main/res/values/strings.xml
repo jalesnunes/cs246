@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Scripture</string>
+    <string name="enter_chapter">Enter a chapter</string>
+    <string name="enter_verse">Enter a verse</string>
+    <string name="enter_book">Enter a book</string>
+    <string name="type_scripture">Please type your favorite Scripture</string>
+    <string name="button_submit">Submit</string>
+</resources>
