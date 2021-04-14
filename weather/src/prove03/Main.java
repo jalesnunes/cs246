@@ -78,7 +78,7 @@ public class Main {
         String url = "https://api.openweathermap.org/data/2.5/weather";
         String charset = "UTF-8";
         String units = "metric";
-        String api = "ae95ce2a887b9fc978ecbfa9c7f181cf";
+        //String api = "Put your API key here";
 
         String query = String.format("q=%s&units=%s&apiKey=%s",
                 URLEncoder.encode(city, charset),
